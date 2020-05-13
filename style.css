@@ -1,0 +1,17 @@
+form{
+  border-style: solid;
+  padding: 20px;
+}
+
+button{
+ margin: 5px;
+ padding: 10px;
+ align-content: center;
+ color: white;
+ background-color: black;
+}
+
+input{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
